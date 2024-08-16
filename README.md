@@ -75,7 +75,7 @@ make install
 curl -L https://foundry.paradigm.xyz | bash
 source $HOME/.bashrc
 foundryup
-cd BDK2
+cd BDK5
 git config --global user.email "codephreak@dmg.finance"
 git config --global user.name "Professor-Codephreak"
 forge init --force
@@ -94,7 +94,7 @@ this will take between 5 and 20 minutes depending on your hardware
 
 ```bash
 kurtosis clean --all
-kurtosis run --enclave bdk-v2 --args-file params.yml --image-download always .
+kurtosis run --enclave bdk-v5 --args-file params.yml --image-download always .
 ```
 
 ![Architecture Diagram](./docs/img/starlark.png)
@@ -113,13 +113,13 @@ this will take between 5 and 20 minutes depending on your hardware
 
 ```bash
 kurtosis clean --all
-kurtosis run --enclave bdk-v2 --args-file params.yml --image-download always .
+kurtosis run --enclave bdk-v5 --args-file params.yml --image-download always .
 ```
 
 The command above deploys a BDK stack using [zkevm-node](https://github.com/0xPolygonHermez/zkevm-node) as the sequencer. Alternatively, to launch a CDK stack using [cdk-erigon](https://github.com/0xPolygonHermez/cdk-erigon) as a sequencer, you can run the following command.
 
 ```bash
-kurtosis run --enclave bdk-v2 --args-file cdk-erigon-sequencer-params.yml --image-download always .
+kurtosis run --enclave bdk-v5 --args-file cdk-erigon-sequencer-params.yml --image-download always .
 ```
 
 # simple L2 RPC test call.
@@ -127,7 +127,7 @@ kurtosis run --enclave bdk-v2 --args-file cdk-erigon-sequencer-params.yml --imag
 First, you will need to figure out which port Kurtois uses for the RPC. You can get a general feel for the entire network layout by running the following command:
 
 ```bash
-kurtosis enclave inspect cdk-v1
+kurtosis enclave inspect bdk-v5
 ```
 
 # view port mapping within enclave `bdk-v2` for `zkevm-node-rpc` service and `trusted-rpc`storing the RPC URL as an environment variable:
@@ -171,7 +171,7 @@ sudo apt install postgresql-client-common
 
 foundry creates script and src folders
 
-The LAIR3-BDK2 Layer 3 Blockchain Development Kit is designed to facilitate the deployment and management of advanced blockchain solutions specifically supporting zkEVM Rollup and Validium technologies. Merging the best of the Kurtosis SDK, polygon-cli, avalanche subnet-evm and ignite with Starlark the Blockchain Deployment Kit facilitates the creation and deployment of customized blockchain environments with enhanced observability and testing capabilities.
+The LAIR3-BDK5 Layer 3 Blockchain Development Kit is designed to facilitate the deployment and management of advanced blockchain solutions specifically supporting zkEVM Rollup and Validium technologies. Merging the best of the Kurtosis SDK, polygon-cli, avalanche subnet-evm and ignite with Starlark the Blockchain Deployment Kit facilitates the creation and deployment of customized blockchain environments with enhanced observability and testing capabilities.
 
 The primary goal is to to make blockchain deployment a sane operation accessiable to regular developers interested in dapplications development.
 
@@ -279,24 +279,24 @@ kurtosis enclave ls
 
 # Inspect the Kurtosis enclave
 ```bash
-kurtosis enclave inspect bdk-v2
+kurtosis enclave inspect bdk-v5
 ```
 
 # Check the logs of the failing service
 ```bash
-kurtosis service logs bdk-v2 zkevm-bridge-ui-001
+kurtosis service logs bdk-v5 zkevm-bridge-ui-001
 ```
 # Open a shell into the service container to manually inspect and debug
 ```bash
-kurtosis service shell bdk-v2 zkevm-bridge-ui-001
+kurtosis service shell bdk-v5 zkevm-bridge-ui-001
 ```
 
 # Environment Setup
 Clone the Repository and Install Dependencies
 
 ```bash
-git clone https://github.com/LAIR3/BDK.git
-cd BDK
+git clone https://github.com/LAIR3/BDK5.git
+cd BDK5
 sh scripts/tool_check.sh
 ```
 
@@ -340,22 +340,22 @@ docker network inspect NAME
 ```
 
 ############ START ############
-# BDK-v3 as Kurtosis Enclave
+# BDK-v5 as Kurtosis Enclave
 
 ```bash
-kurtosis run --enclave BDK-v3 --args-file params.yml --image-download always .
+kurtosis run --enclave BDK-v5 --args-file params.yml --image-download always .
 ```
 
 # Inspect Enclave for Dashboard Details
 
 ```bash
-kurtosis enclave inspect BDK-v3
+kurtosis enclave inspect BDK-v5
 ```
 
 # Fetch Service Logs
 
 ```bash
-kurtosis service logs bdk-v2 zkevm-agglayer-001
+kurtosis service logs bdk-v5 zkevm-agglayer-001
 ```
 
 # Add Permissionless Node
