@@ -355,6 +355,10 @@ kurtosis run --enclave BDK-v5 --args-file params.yml --image-download always .
 # Inspect Enclave for Dashboard Details
 
 ```bash
+kurtosis enclave ls
+```
+
+```bash
 kurtosis enclave inspect BDK-v5
 ```
 
@@ -376,7 +380,7 @@ kurtosis run --enclave cdk-v1 --args-file params.yml --image-download always .
 ```bash
 cp /path/to/external/genesis.json templates/permissionless-node/genesis.json
 yq -Y --in-place 'with_entries(if .key == "deploy_zkevm_permissionless_node" then .value = true elif .value | type == "boolean" then .value = false else . end)' params.yml
-kurtosis run --enclave cdk-v1 --args-file params.yml --image-download always .
+kurtosis run --enclave bdk-v5 --args-file params.yml --image-download always .
 ```
 
 # Simple RPC Calls
