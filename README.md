@@ -60,6 +60,12 @@ sudo apt update
 sudo apt install kurtosis-cli
 ```
 
+# kurtosis-upgrade
+```bash
+apt update && apt install --only-upgrade kurtosis-cli
+kurtosis engine restart
+```
+
 
 # polygon-cli install blockchain swiss army knife source build
 
