@@ -62,7 +62,7 @@ sudo apt install kurtosis-cli
 
 # kurtosis-upgrade
 ```bash
-apt update && apt install --only-upgrade kurtosis-cli
+sudo apt update && sudo apt install --only-upgrade kurtosis-cli
 kurtosis engine restart
 ```
 
