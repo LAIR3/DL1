@@ -76,7 +76,8 @@ kurtosis engine restart
 ```
 
 
-# polygon-cli install blockchain swiss army knife source build
+# polygon-cli install
+blockchain swiss army knife source build<br />
 
 ```bash
 snap install yq
