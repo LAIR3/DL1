@@ -299,7 +299,8 @@ kurtosis enclave inspect bdk-v5
 ```bash
 kurtosis service logs bdk-v5 zkevm-bridge-ui-001
 ```
-# Open a shell into the service container to manually inspect and debug
+# Open a service shell
+enter the service container to manually inspect and debug example brige-ui<br />
 ```bash
 kurtosis service shell bdk-v5 zkevm-bridge-ui-001
 ```
