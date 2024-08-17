@@ -146,7 +146,8 @@ First, you will need to figure out which port Kurtois uses for the RPC. You can 
 kurtosis enclave inspect bdk-v5
 ```
 
-# view port mapping within enclave `bdk-v2` for `zkevm-node-rpc` service and `trusted-rpc`storing the RPC URL as an environment variable:
+# view port mapping
+within enclave `bdk-v2` for `zkevm-node-rpc` service and `trusted-rpc`storing the RPC URL as an environment variable:<br />
 
 ```bash
 export ETH_RPC_URL="$(kurtosis port print bdk-v2 zkevm-node-rpc-001 http-rpc)"
