@@ -222,6 +222,7 @@ docker compose version
 <a href="https://lighthouse-book.sigmaprime.io/">lighthouse</a><br />
 <a href="https://docs.timescale.com/self-hosted/latest/install/installation-docker/">pgvectorscale timescale</a><br />
 <a href="https://docs.kurtosis.com/how-to-local-eth-testnet">kurtosis ETH local testnet</a><br />
+<a href="https://training.github.com/downloads/github-git-cheat-sheet/">github quick reference</a><br />
 
 # troubleshoot ###################################################################
 
