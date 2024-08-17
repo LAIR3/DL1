@@ -5,10 +5,7 @@ pronounced: layer three blockchhain deployment kit<br />
 A [Kurtosis](https://github.com/kurtosis-tech/kurtosis) package that deploys a private, portable, and modular Blockchain Deployment Kit layer3 BDK as devnet<br />
 LAIR3-BDK5 is derived from modest improvements to Polygon-SDK and Kurtosis-CDK dual licenced with inspiration from<br /><br />
 <a href="http://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf">The Knowledge Complexity of Interactive Proof Systems</a><br /><br />
-reference:<br /> 
-<a href="https://docs.kurtosis.com/">kurtosis-docs</a><br />
-<a href="https://docs.polygon.technology/cdk/">polygon-cdk</a><br />
-<a href="https://docs.polygon.technology/cdk/agglayer/overview/">agglayer-docs</a><br />
+
 
 instructions are somewhat specific to Ubuntu 22.04LTS<br />
 
@@ -222,8 +219,11 @@ docker compose version
 <a href="https://lighthouse-book.sigmaprime.io/">lighthouse</a><br />
 <a href="https://docs.timescale.com/self-hosted/latest/install/installation-docker/">pgvectorscale timescale</a><br />
 <a href="https://docs.kurtosis.com/how-to-local-eth-testnet">kurtosis ETH local testnet</a><br />
-< a href="https://docs.docker.com/engine/install/">docker engine install</a><br />
+<a href="https://docs.docker.com/engine/install/">docker engine install</a><br />
 <a href="https://training.github.com/downloads/github-git-cheat-sheet/">github quick reference</a><br />
+<a href="https://docs.kurtosis.com/">kurtosis-docs</a><br />
+<a href="https://docs.polygon.technology/cdk/">polygon-cdk</a><br />
+<a href="https://docs.polygon.technology/cdk/agglayer/overview/">agglayer-docs</a><br />
 
 # troubleshoot ###################################################################
 
