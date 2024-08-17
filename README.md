@@ -9,6 +9,18 @@ LAIR3-BDK5 is derived from modest improvements to Polygon-SDK and Kurtosis-CDK d
 
 instructions are somewhat specific to Ubuntu 22.04LTS<br />
 
+# reference links<br />
+<a href="https://docs.kurtosis.com/">kurtosis-docs</a><br />
+<a href="https://docs.kurtosis.com/how-to-local-eth-testnet">kurtosis ETH local testnet</a><br />
+<a href="https://lighthouse-book.sigmaprime.io/">lighthouse</a><br />
+<a href="https://docs.polygon.technology/cdk/">polygon-cdk</a><br />
+<a href="https://docs.polygon.technology/cdk/agglayer/overview/">agglayer-docs</a><br />
+<a href="https://rollupjs.org/configuration-options/#output-manualchunks">manualchunks</a><br />
+<a href="https://docs.timescale.com/self-hosted/latest/install/installation-docker/">pgvectorscale timescale</a><br />
+<a href="https://docs.docker.com/engine/install/">docker engine install</a><br />
+<a href="https://training.github.com/downloads/github-git-cheat-sheet/">github quick reference</a><br />
+
+
 to begin install the following requirements<br />
 
 #  go1.21.6 install on Ubuntu Linux 22.04LTS for amd64 using bash<br />
@@ -214,16 +226,6 @@ docker rmi blockchaindeploymentkit/bdk-toolbox-postgres-pgvectorscale
 docker system prune -a
 docker compose version
 ```
-# reference links<br />
-<a href="https://rollupjs.org/configuration-options/#output-manualchunks">manualchunks</a><br />
-<a href="https://lighthouse-book.sigmaprime.io/">lighthouse</a><br />
-<a href="https://docs.timescale.com/self-hosted/latest/install/installation-docker/">pgvectorscale timescale</a><br />
-<a href="https://docs.kurtosis.com/how-to-local-eth-testnet">kurtosis ETH local testnet</a><br />
-<a href="https://docs.docker.com/engine/install/">docker engine install</a><br />
-<a href="https://training.github.com/downloads/github-git-cheat-sheet/">github quick reference</a><br />
-<a href="https://docs.kurtosis.com/">kurtosis-docs</a><br />
-<a href="https://docs.polygon.technology/cdk/">polygon-cdk</a><br />
-<a href="https://docs.polygon.technology/cdk/agglayer/overview/">agglayer-docs</a><br />
 
 # troubleshoot ###################################################################
 
