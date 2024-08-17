@@ -12,6 +12,7 @@ instructions are somewhat specific to Ubuntu 22.04LTS<br />
 # reference links<br />
 <a href="https://docs.kurtosis.com/">kurtosis-docs</a><br />
 <a href="https://docs.kurtosis.com/how-to-local-eth-testnet">kurtosis ETH local testnet</a><br />
+<a href="https://docs.kurtosis.com/how-to-compose-your-own-testnet">kurtosis local custom testnet</a>
 <a href="https://lighthouse-book.sigmaprime.io/">lighthouse</a><br />
 <a href="https://docs.polygon.technology/cdk/">polygon-cdk</a><br />
 <a href="https://docs.polygon.technology/cdk/agglayer/overview/">agglayer-docs</a><br />
