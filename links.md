@@ -88,7 +88,6 @@ https://github.com/javascriptit/coinpunk<br />
 https://github.com/smartmetamask<br />
 https://github.com/metasnaps<br />
 
-
 # metadata
 https://github.com/interplanetaryfilesystem<br />
 https://github.com/DeltaVThrust-NFT<br />
