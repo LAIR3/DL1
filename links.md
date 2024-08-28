@@ -1,37 +1,32 @@
 // serious business inquiry to dcent@tuta.io
 # systems.architecture
-https://github.com/bankonme
-https://github.com/agregkit
-https://github.com/cryptoboml
-https://github.com/thenewonepercent
+https://github.com/bankonme<br />
+https://github.com/agregkit<br />
+https://github.com/cryptoboml<br />
+https://github.com/thenewonepercent<br />
 
 # machine learning
-https://github.com/Professor-Codephreak
-https://github.com/web3Dai
+https://github.com/Professor-Codephreak<br />
+https://github.com/web3Dai<br />
 
 # blockchain 
-https://github.com/THCHAIN
-https://github.com/deltavchain
-https://github.com/THRUSTCHAIN
-https://github.com/MMRAIMRAI
-https://github.com/chattchain
-https://github.com/tashcoin
-https://github.com/TNTbkc
-https://github.com/thTNT
+https://github.com/THCHAIN<br />
+https://github.com/deltavchain<br />
+https://github.com/THRUSTCHAIN<br />
+https://github.com/MMRAIMRAI<br />
+https://github.com/chattchain<br />
+https://github.com/tashcoin<br />
+https://github.com/TNTbkc<br />
+https://github.com/thTNT<br />
 
-summarized as [https://github.com/lair3](https://github.com/LAIR3)
+summarized and delivered as [https://github.com/lair3](https://github.com/LAIR3)
 
-#pyETH
+#pyETH python for ethereum to connect to algorand and other uses
 https://github.com/pyeth
 
-# solana
+# solana is cosm rust
 https://github.com/BRUHAI
 https://github.com/rustchain
-
-# bridging
-<a href="https://github.com/dairef">dairef</a><br />
-<a href="https://github.com/deltabridge">deltabridge</a><br />
-https://github.com/tethercoin
 
 # goverance
 https://github.com/DAONOW
@@ -49,20 +44,25 @@ https://github.com/decenterland
 https://github.com/deltav-deltaverse
 https://github.com/DeltaVD
 
+# UIUX
+https://github.com/webthreejs
+https://github.com/gnugui
+https://github.com/UIUXt
+
 # identity
 https://github.com/idmanagement
 https://github.com/bankonvault
 
 # communication
 https://github.com/parsec-wallet
+https://github.com/chatter3
 https://github.com/web3comm
+https://github.com/blktalk
 https://github.com/eXcomm
 
 # wallet.enhancements
 https://github.com/smartmetamask
 https://github.com/metasnaps
-https://github.com/blktalk
-https://github.com/chatter3
 
 # metadata
 https://github.com/interplanetaryfilesystem
@@ -77,6 +77,11 @@ https://github.com/deltalgorand
 https://github.com/limitorder
 https://github.com/smartspintrade
 https://github.com/spintrade
+
+# bridging interoperable communication
+<a href="https://github.com/dairef">dairef</a><br />
+<a href="https://github.com/deltabridge">deltabridge</a><br />
+https://github.com/tethercoin
 
 # metrics
 https://github.com/smartBNBmetrics
@@ -117,15 +122,10 @@ https://github.com/GATERAGE
 https://github.com/solidml
 https://github.com/pythaiml
 
-# UIUX
-https://github.com/webthreejs
-https://github.com/gnugui
-https://github.com/UIUXt
-
 # ordinals
 https://github.com/satoshigen
 
-# pythia mystic
+# pythia mystic prediction.display.agent blockchain integration
 https://github.com/PYTHIAMSTIC
 
 
