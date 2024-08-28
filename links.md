@@ -20,11 +20,12 @@ https://github.com/thTNT<br />
 
 [Layer3 Blockchain Deployment Kit](https://github.com/LAIR3/BDK5)
 
-# <a href="https://github.com/pyeth">pyETH</a>
+
 python for ethereum to connect algorand to EVM and other use cases
+# <a href="https://github.com/pyeth">pyETH</a>
 
 
-# solana is cosm rustchain
+# solana is cosmwasm rustchain
 https://github.com/solsolution<br />
 https://github.com/BRUHAI<b />
 https://github.com/rustchain<br />
