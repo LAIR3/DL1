@@ -17,7 +17,7 @@ https://github.com/gpt4plugins<br />
 https://github.com/xtends<br />
 https://github.com/aiterm<br />
 
-# AGI === Autonomous Generative Intelligence
+# <a href="https://github.com/easyGLM/ezAGI">AGI</a> === Autonomous Generative Intelligence
 https://github.com/easyAGI<br />
 https://github.com/easyGLM<br />
 https://github.com/autoGLM<br />
