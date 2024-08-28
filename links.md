@@ -45,8 +45,8 @@ https://github.com/thTNT<br />
 
 [Layer3 Blockchain Deployment Kit](https://github.com/LAIR3/BDK5)
 
-python for ethereum to connect algorand to EVM and other use cases
 # <a href="https://github.com/pyeth">pyETH</a>
+python for ethereum to connect algorand to EVM and other use cases
 
 # solana is cosmwasm rustchain
 https://github.com/solsolution<br />
