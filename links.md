@@ -24,10 +24,10 @@ https://github.com/autoGLM<br />
 https://github.com/modusAGI<br />
 https://github.com/llamagi<br />
 
-# rage === Retrieval Augmented Generative Engine
+# <a href="https://rage.pythai.net">rage</a> === Retrieval Augmented Generative Engine
 https://github.com/GATERAGE<br />
 
-# agency === collection of agents creating agentic agency
+# <a href="https://gpt.pythai.net">agency</a> === team of agents creates agentic agency
 https://github.com/autonomos-agent<br />
 https://github.com/solidml<br />
 https://github.com/pythaiml<br />
@@ -53,7 +53,7 @@ https://github.com/solsolution<br />
 https://github.com/BRUHAI<b />
 https://github.com/rustchain<br />
 
-# goverance
+# <a href="https://chatgpt.com/g/g-OO5zCdfSA-daonow">goverance</a>
 https://github.com/DAONOW<br />
 https://github.com/DAOcommunity<br />
 https://github.com/DeltaVerseDAO<br />
