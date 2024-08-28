@@ -45,11 +45,13 @@ https://github.com/deltav-deltaverse
 https://github.com/DeltaVD
 
 # UIUX
+https://github.com/javascriptit
 https://github.com/webthreejs
 https://github.com/gnugui
 https://github.com/UIUXt
 
 # identity
+<a href="https://x.com/bankonwallet">bankonwallet</a>
 https://github.com/idmanagement
 https://github.com/bankonvault
 
@@ -61,6 +63,7 @@ https://github.com/blktalk
 https://github.com/eXcomm
 
 # wallet.enhancements
+https://github.com/javascriptit/coinpunk
 https://github.com/smartmetamask
 https://github.com/metasnaps
 
@@ -81,7 +84,15 @@ https://github.com/spintrade
 # bridging interoperable communication
 <a href="https://github.com/dairef">dairef</a><br />
 <a href="https://github.com/deltabridge">deltabridge</a><br />
-https://github.com/tethercoin
+<a href="https://github.com/symcryptosis">symcryptosis</a><br />
+<a href="https://github.com/THRUSTDeltaV/DELTAVstargaterouter.sol">deltav-stargate<br />
+<a href="https://deltav.exchange">deltav.exchange bridge</a>
+https://github.com/tethercoin<br />
+https://github.com/LAIR3/usdc-lxly<br />
+https://github.com/LAIR3/ulxly-contracts<br />
+ttps://github.com/LAIR3/lxly-bridge-and-call<br />
+https://github.com/LAIR3/lighthouse<br />
+https://github.com/LAIR3/agglayer<br  />
 
 # metrics
 https://github.com/smartBNBmetrics
@@ -91,7 +102,6 @@ https://github.com/deltaloans
 
 # experimental
 https://github.com/DeltaLabratory
-https://github.com/symcryptosis
 https://github.com/thTNT2
 https://github.com/pkNFTapi
 
@@ -108,21 +118,21 @@ https://github.com/xtends
 https://github.com/augml
 https://github.com/aiterm
 
-# AGI
+# AGI === Autonomous Generative Intelligence
 https://github.com/easyAGI
 https://github.com/easyGLM
 https://github.com/autoGLM
 https://github.com/modusAGI
 https://github.com/llamagi
 
-# rage
+# rage === Retrieval Augmented Generative Engine
 https://github.com/GATERAGE
 
-# agency
+# agency === collection of agents creating agentic agency
 https://github.com/solidml
 https://github.com/pythaiml
 
-# ordinals
+# ordinals === immortal Satoshi record
 https://github.com/satoshigen
 
 # pythia mystic prediction.display.agent blockchain integration
