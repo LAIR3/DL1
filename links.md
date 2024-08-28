@@ -8,7 +8,7 @@ https://github.com/agregkit<br />
 https://github.com/DeltaVML<br />
 https://github.com/web3Dai<br />
 
-# <a href="https://tnt.exchange">blockchain"</a>
+# <a href="https://tnt.exchange">blockchain</a>
 https://github.com/THCHAIN<br />
 https://github.com/deltavchain<br />
 https://github.com/THRUSTCHAIN<br />
@@ -18,7 +18,7 @@ https://github.com/tashcoin<br />
 https://github.com/TNTbkc<br />
 https://github.com/thTNT<br />
 
-[Layer3 Blockchain Delpoyment Kit](https://github.com/LAIR3/BDK5)
+[Layer3 Blockchain Deployment Kit](https://github.com/LAIR3/BDK5)
 
 # <a href="https://github.com/pyeth">pyETH</a>
 python for ethereum to connect algorand to EVM and other use cases
