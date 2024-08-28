@@ -1,15 +1,14 @@
 // serious business inquiry to dcent@tuta.io
-# systems.architecture
-https://github.com/bankonme<br />
-https://github.com/agregkit<br />
-https://github.com/cryptoboml<br />
+# <a href="https://github.com/bankonme">systems.architecture</a>
 https://github.com/thenewonepercent<br />
+https://github.com/cryptoboml<br />
+https://github.com/agregkit<br />
 
-# machine learning
-https://github.com/Professor-Codephreak<br />
+# <a href="Professor-Codephreak">machine learning</a>
+https://github.com/DeltaVML<br />
 https://github.com/web3Dai<br />
 
-# blockchain 
+# <a href="https://tnt.exchange">blockchain"</a>
 https://github.com/THCHAIN<br />
 https://github.com/deltavchain<br />
 https://github.com/THRUSTCHAIN<br />
@@ -19,67 +18,67 @@ https://github.com/tashcoin<br />
 https://github.com/TNTbkc<br />
 https://github.com/thTNT<br />
 
-summarized and delivered as [https://github.com/lair3](https://github.com/LAIR3)
+[Layer3 Blockchain Delpoyment Kit](https://github.com/LAIR3/BDK5)
 
-#pyETH python for ethereum to connect to algorand and other uses
-https://github.com/pyeth
+# <a href="https://github.com/pyeth">pyETH</a>
+python for ethereum to connect algorand to EVM and other use cases
 
-# solana is cosm rust
-https://github.com/BRUHAI
-https://github.com/rustchain
+
+# solana is cosm rustchain
+https://github.com/solsolution<br />
+https://github.com/BRUHAI<b />
+https://github.com/rustchain<br />
 
 # goverance
-https://github.com/DAONOW
-https://github.com/DAOcommunity
-https://github.com/DeltaVerseDAO
-https://github.com/researchsolution
-https://github.com/web3buysell
-https://github.com/ailgo
-https://github.com/w3DAIO
-
-# vision
-https://github.com/decenterland
+https://github.com/DAONOW<br />
+https://github.com/DAOcommunity<br />
+https://github.com/DeltaVerseDAO<br />
+https://github.com/researchsolution<br />
+https://github.com/web3buysell<br />
+https://github.com/ailgo<br />
+https://github.com/w3DAIO<br />
 
 # participant.experience
-https://github.com/deltav-deltaverse
-https://github.com/DeltaVD
+https://github.com/deltav-deltaverse<br />
+https://github.com/DeltaVD<br />
 
 # UIUX
-https://github.com/javascriptit
-https://github.com/webthreejs
-https://github.com/gnugui
-https://github.com/UIUXt
+https://github.com/javascriptit<br />
+https://github.com/webthreejs<br />
+https://github.com/gnugui<br />
+https://github.com/UIUXt<br />
 
 # identity
-<a href="https://x.com/bankonwallet">bankonwallet</a>
-https://github.com/idmanagement
-https://github.com/bankonvault
+<a href="https://x.com/bankonwallet">bankonwallet</a><br />
+https://github.com/decenterland<br />
+https://github.com/idmanagement<br />
+https://github.com/bankonvault<br />
 
 # communication
-https://github.com/parsec-wallet
-https://github.com/chatter3
-https://github.com/web3comm
-https://github.com/blktalk
-https://github.com/eXcomm
+https://github.com/parsec-wallet<br />
+https://github.com/chatter3<br />
+https://github.com/web3comm<br />
+https://github.com/blktalk<br />
+https://github.com/eXcomm<br />
 
 # wallet.enhancements
-https://github.com/javascriptit/coinpunk
-https://github.com/smartmetamask
-https://github.com/metasnaps
+https://github.com/javascriptit/coinpunk<br />
+https://github.com/smartmetamask<br />
+https://github.com/metasnaps<br />
 
 # metadata
-https://github.com/interplanetaryfilesystem
-https://github.com/ipNFTfs
-https://github.com/IPFSdapps
-https://github.com/DeltaVThrust-NFT
-https://github.com/thrustdrop
+https://github.com/interplanetaryfilesystem<br />
+https://github.com/ipNFTfs<br />
+https://github.com/IPFSdapps<br />
+https://github.com/DeltaVThrust-NFT<br />
+https://github.com/thrustdrop<br />
 
 # dex
-https://github.com/deltamoonbeam
-https://github.com/deltalgorand
-https://github.com/limitorder
-https://github.com/smartspintrade
-https://github.com/spintrade
+https://github.com/deltamoonbeam<br />
+https://github.com/deltalgorand<br />
+https://github.com/limitorder<br />
+https://github.com/smartspintrade<br />
+https://github.com/spintrade<br />
 
 # bridging interoperable communication
 <a href="https://github.com/dairef">dairef</a><br />
@@ -95,48 +94,48 @@ https://github.com/LAIR3/lighthouse<br />
 https://github.com/LAIR3/agglayer<br  />
 
 # metrics
-https://github.com/smartBNBmetrics
+https://github.com/smartBNBmetrics<br />
 
 # flashloan
-https://github.com/deltaloans
+https://github.com/deltaloans<br />
 
 # experimental
-https://github.com/DeltaLabratory
-https://github.com/thTNT2
-https://github.com/pkNFTapi
+https://github.com/DeltaLabratory<br />
+https://github.com/thTNT2<br />
+https://github.com/pkNFTapi<br />
 
 # orchestration
-https://github.com/mastermindML
+https://github.com/mastermindML<br />
 
 # machine learning
-https://github.com/autonomos-agent
-https://github.com/DeltaVML
-https://github.com/openmindx
-https://github.com/webmindml
-https://github.com/gpt4plugins
-https://github.com/xtends
-https://github.com/augml
-https://github.com/aiterm
+https://github.com/autonomos-agent<br />
+https://github.com/DeltaVML<br />
+https://github.com/openmindx<br />
+https://github.com/webmindml<br />
+https://github.com/gpt4plugins<br />
+https://github.com/xtends<br />
+https://github.com/augml<br />
+https://github.com/aiterm<br />
 
 # AGI === Autonomous Generative Intelligence
-https://github.com/easyAGI
-https://github.com/easyGLM
-https://github.com/autoGLM
-https://github.com/modusAGI
-https://github.com/llamagi
+https://github.com/easyAGI<br />
+https://github.com/easyGLM<br />
+https://github.com/autoGLM<br />
+https://github.com/modusAGI<br />
+https://github.com/llamagi<br />
 
 # rage === Retrieval Augmented Generative Engine
-https://github.com/GATERAGE
+https://github.com/GATERAGE<br />
 
 # agency === collection of agents creating agentic agency
-https://github.com/solidml
-https://github.com/pythaiml
+https://github.com/solidml<br />
+https://github.com/pythaiml<br />
 
 # ordinals === immortal Satoshi record
-https://github.com/satoshigen
+https://github.com/satoshigen<br />
 
 # pythia mystic prediction.display.agent blockchain integration
-https://github.com/PYTHIAMSTIC
+https://github.com/PYTHIAMSTIC<br />
 
 
 
