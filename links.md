@@ -112,7 +112,7 @@ https://github.com/spintrade<br />
 https://github.com/tethercoin<br />
 https://github.com/LAIR3/usdc-lxly<br />
 https://github.com/LAIR3/ulxly-contracts<br />
-ttps://github.com/LAIR3/lxly-bridge-and-call<br />
+https://github.com/LAIR3/lxly-bridge-and-call<br />
 https://github.com/LAIR3/lighthouse<br />
 https://github.com/LAIR3/agglayer<br  />
 
