@@ -250,6 +250,10 @@ Restart Kurtosis and Docker:
 kurtosis engine restart
 sudo systemctl restart docker
 ```
+```bash
+docker ps -a
+docker images
+```
 requirements include but not limited to<br />
 
 # zkevm_bridge logs ./lib/zkevm_bridge.star<br />
