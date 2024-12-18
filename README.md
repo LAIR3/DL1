@@ -10,7 +10,7 @@ LAIR3-BDK5 is derived from modest improvements to Polygon-SDK and Kurtosis-CDK d
 
 
 instructions are somewhat specific to Ubuntu 22.04LTS<br />
-
+docker container is using Alpine Linux<br />
 # reference links<br />
 <a href="https://docs.kurtosis.com/">kurtosis-docs</a><br />
 <a href="https://docs.kurtosis.com/how-to-local-eth-testnet">kurtosis ETH local testnet</a><br />
