@@ -106,6 +106,12 @@ run tool_check to test for version requirements
 ```bash
 sh scripts/tool_check.sh
 ```
+wallet creation
+```
+polycli wallet inspect --mnemonic "$seed" --addresses 9 | \
+    jq -r '.Addresses[] | [.ETHAddress, .HexPrivateKey] | @tsv' | \
+    awk 'BEGIN{split("sequencer,aggregator,claimtxmanager,timelock,admin,loadtest,agglayer,dac,proofsigner",roles,",")} {print "zkevm_l2_" roles[NR] "_address: \"" $1 "\""; print "zkevm_l2_" roles[NR] "_private_key: \"0x" $2 "\"\n"}'
+```
 
 Once that is good and installed on your system, you can run the following command to locally deploy the complete BDK stack
 
