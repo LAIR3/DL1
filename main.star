@@ -46,7 +46,7 @@ def run(
 
     args = import_module(input_parser).parse_args(args)
 
-    plan.print("Deploying CDK environment...")
+    plan.print("Deploying BDK environment...")
 
     if deploy_cdk_erigon_node:
         args["l2_rpc_name"] = "cdk-erigon-node"
@@ -60,7 +60,7 @@ def run(
 
     # Deploy a local L1.
     if deploy_l1:
-        plan.print("Deploying a local L1")
+        plan.print("Deploying OPEN BDK local L1")
         import_module(ethereum_package).run(plan, args)
     else:
         plan.print("Skipping the deployment of a local L1")
