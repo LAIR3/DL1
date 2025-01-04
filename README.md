@@ -23,6 +23,15 @@ docker container is using Alpine Linux<br />
 <a href="https://docs.docker.com/engine/install/">docker engine install</a><br />
 <a href="https://training.github.com/downloads/github-git-cheat-sheet/">github quick reference</a><br />
 
+# sane password management from current default of ....
+
+```bash
+kurtosis files download OPENBDK 248e237c5e21 ./local-prysm-password
+INFO[2025-01-04T15:44:29-07:00] File package with identifier '248e237c5e21' extracted to '/home/hacker/DL1/local-prysm-password' 
+hacker@bankster:~/DL1$ cat ./local-prysm-password/prysm-password.txt
+password
+```
+
 
 to begin install the following requirements<br />
 
